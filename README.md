@@ -1,30 +1,22 @@
-# Fraud Decision Engine
+# From Transaction Data to Business Decisions:
+## Building a Fraud Risk Decision Engine
 
-IEEE-CIS Fraud Detection project.
+This project explores how transaction data can be transformed into operational business decisions rather than merely producing fraud predictions.
 
-## Project Structure
+Instead of focusing solely on model performance, the project emphasizes:
 
-```
-fraud-decision-engine/
-│
-├── data/
-│   ├── raw/              # Original CSV datasets
-│   ├── interim/          # Intermediate transformed data
-│   └── processed/        # Final cleaned data for modeling
-│
-├── notebooks/
-│   ├── 01_Business_Understanding.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   ├── 04_Modeling.ipynb
-│   ├── 05_Decision_Engine.ipynb
-│   └── 06_Final_Report.ipynb
-│
-├── outputs/
-│   ├── figures/          # Generated plots and visualizations
-│   ├── tables/           # Exported tables and summaries
-│   └── models/           # Trained model artifacts
-│
-├── README.md
-└── requirements.txt
-```
+- Business Understanding
+- Decision-Oriented Analytics
+- Cost-Aware Fraud Detection
+- Risk-Based Decision Engine
+
+---
+
+## Current Progress
+
+- [x] Business Understanding
+- [ ] Exploratory Data Analysis
+- [ ] Feature Engineering
+- [ ] Fraud Modeling
+- [ ] Decision Engine
+- [ ] Final Report
