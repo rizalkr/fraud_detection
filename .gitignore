@@ -1,2 +1,16 @@
-dataset/*
-!dataset/.gitkeep
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Interim and processed data
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Model artifacts
+outputs/models/*
+!outputs/models/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints
