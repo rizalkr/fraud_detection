@@ -16,3 +16,7 @@ outputs/models/*
 .ipynb_checkpoints
 
 .venv
+
+# Model
+models/*
+!models/.gitkeep
